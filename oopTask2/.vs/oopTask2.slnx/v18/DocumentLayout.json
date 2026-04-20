@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OOPCsharp\\oopTask2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F727E610-812F-6421-6E87-F7064FE0FC9A}|oopTask2\\oopTask2.csproj|c:\\users\\user\\oopcsharp\\ooptask2\\ooptask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F727E610-812F-6421-6E87-F7064FE0FC9A}|oopTask2\\oopTask2.csproj|solutionrelative:ooptask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OOPCsharp\\oopTask2\\oopTask2\\Program.cs",
+              "RelativeDocumentMoniker": "oopTask2\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OOPCsharp\\oopTask2\\oopTask2\\Program.cs",
+              "RelativeToolTip": "oopTask2\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAswDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:59:41.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
