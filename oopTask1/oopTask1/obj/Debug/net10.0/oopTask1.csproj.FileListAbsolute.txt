@@ -1,0 +1,15 @@
+C:\Users\user\OOPCsharp\oopTask1\oopTask1\obj\Debug\net10.0\oopTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OOPCsharp\oopTask1\oopTask1\obj\Debug\net10.0\oopTask1.AssemblyInfoInputs.cache
+C:\Users\user\OOPCsharp\oopTask1\oopTask1\obj\Debug\net10.0\oopTask1.AssemblyInfo.cs
+C:\Users\user\OOPCsharp\oopTask1\oopTask1\obj\Debug\net10.0\oopTask1.csproj.CoreCompileInputs.cache
+C:\Users\user\OOPCsharp\oopTask1\oopTask1\obj\Debug\net10.0\oopTask1.sourcelink.json
+C:\Users\user\OOPCsharp\oopTask1\oopTask1\bin\Debug\net10.0\oopTask1.exe
+C:\Users\user\OOPCsharp\oopTask1\oopTask1\bin\Debug\net10.0\oopTask1.deps.json
+C:\Users\user\OOPCsharp\oopTask1\oopTask1\bin\Debug\net10.0\oopTask1.runtimeconfig.json
+C:\Users\user\OOPCsharp\oopTask1\oopTask1\bin\Debug\net10.0\oopTask1.dll
+C:\Users\user\OOPCsharp\oopTask1\oopTask1\bin\Debug\net10.0\oopTask1.pdb
+C:\Users\user\OOPCsharp\oopTask1\oopTask1\obj\Debug\net10.0\oopTask1.dll
+C:\Users\user\OOPCsharp\oopTask1\oopTask1\obj\Debug\net10.0\refint\oopTask1.dll
+C:\Users\user\OOPCsharp\oopTask1\oopTask1\obj\Debug\net10.0\oopTask1.pdb
+C:\Users\user\OOPCsharp\oopTask1\oopTask1\obj\Debug\net10.0\oopTask1.genruntimeconfig.cache
+C:\Users\user\OOPCsharp\oopTask1\oopTask1\obj\Debug\net10.0\ref\oopTask1.dll
