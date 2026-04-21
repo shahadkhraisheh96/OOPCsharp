@@ -1,0 +1,7 @@
+C:\Users\user\orangtask\MathUtilities\MathUtilities\bin\Debug\MathUtilities.exe.config
+C:\Users\user\orangtask\MathUtilities\MathUtilities\bin\Debug\MathUtilities.exe
+C:\Users\user\orangtask\MathUtilities\MathUtilities\bin\Debug\MathUtilities.pdb
+C:\Users\user\orangtask\MathUtilities\MathUtilities\obj\Debug\MathUtilities.csproj.AssemblyReference.cache
+C:\Users\user\orangtask\MathUtilities\MathUtilities\obj\Debug\MathUtilities.csproj.CoreCompileInputs.cache
+C:\Users\user\orangtask\MathUtilities\MathUtilities\obj\Debug\MathUtilities.exe
+C:\Users\user\orangtask\MathUtilities\MathUtilities\obj\Debug\MathUtilities.pdb
