@@ -1,0 +1,7 @@
+C:\Users\user\OOPCsharp\OOPPrinciples\OOPPrinciples\bin\Debug\OOPPrinciples.exe.config
+C:\Users\user\OOPCsharp\OOPPrinciples\OOPPrinciples\bin\Debug\OOPPrinciples.exe
+C:\Users\user\OOPCsharp\OOPPrinciples\OOPPrinciples\bin\Debug\OOPPrinciples.pdb
+C:\Users\user\OOPCsharp\OOPPrinciples\OOPPrinciples\obj\Debug\OOPPrinciples.csproj.AssemblyReference.cache
+C:\Users\user\OOPCsharp\OOPPrinciples\OOPPrinciples\obj\Debug\OOPPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\user\OOPCsharp\OOPPrinciples\OOPPrinciples\obj\Debug\OOPPrinciples.exe
+C:\Users\user\OOPCsharp\OOPPrinciples\OOPPrinciples\obj\Debug\OOPPrinciples.pdb
