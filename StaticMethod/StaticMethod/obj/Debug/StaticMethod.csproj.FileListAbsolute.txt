@@ -1,0 +1,7 @@
+C:\Users\user\orangtask\StaticMethod\StaticMethod\bin\Debug\StaticMethod.exe.config
+C:\Users\user\orangtask\StaticMethod\StaticMethod\bin\Debug\StaticMethod.exe
+C:\Users\user\orangtask\StaticMethod\StaticMethod\bin\Debug\StaticMethod.pdb
+C:\Users\user\orangtask\StaticMethod\StaticMethod\obj\Debug\StaticMethod.csproj.AssemblyReference.cache
+C:\Users\user\orangtask\StaticMethod\StaticMethod\obj\Debug\StaticMethod.csproj.CoreCompileInputs.cache
+C:\Users\user\orangtask\StaticMethod\StaticMethod\obj\Debug\StaticMethod.exe
+C:\Users\user\orangtask\StaticMethod\StaticMethod\obj\Debug\StaticMethod.pdb
