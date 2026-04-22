@@ -41,7 +41,7 @@ namespace OOPPrinciples
             Employee pt = new PartTimeEmployee("farah", 25m, 80);
 
             Console.WriteLine($"{ft.employeeName}'s Salary: ${ft.CalculateSalary():N2}");
-            //Console.WriteLine($"{pt.employeeName}'s Salary: ${pt.CalculateSalary():N2}");
+            Console.WriteLine($"{pt.employeeName}'s Salary: ${pt.CalculateSalary():N2}");
         }
     }
 }
