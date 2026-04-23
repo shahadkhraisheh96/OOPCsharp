@@ -1,0 +1,7 @@
+C:\Users\user\OOPCsharp\FileHandling&Library\FileHandling&Library\bin\Debug\FileHandling&Library.exe.config
+C:\Users\user\OOPCsharp\FileHandling&Library\FileHandling&Library\bin\Debug\FileHandling&Library.exe
+C:\Users\user\OOPCsharp\FileHandling&Library\FileHandling&Library\bin\Debug\FileHandling&Library.pdb
+C:\Users\user\OOPCsharp\FileHandling&Library\FileHandling&Library\obj\Debug\FileHandling&Library.csproj.AssemblyReference.cache
+C:\Users\user\OOPCsharp\FileHandling&Library\FileHandling&Library\obj\Debug\FileHandling&Library.csproj.CoreCompileInputs.cache
+C:\Users\user\OOPCsharp\FileHandling&Library\FileHandling&Library\obj\Debug\FileHandling&Library.exe
+C:\Users\user\OOPCsharp\FileHandling&Library\FileHandling&Library\obj\Debug\FileHandling&Library.pdb
