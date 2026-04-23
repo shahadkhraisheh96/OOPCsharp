@@ -1,0 +1,7 @@
+C:\Users\user\orangtask\InterfaceAndException\InterfaceAndException\bin\Debug\InterfaceAndException.exe.config
+C:\Users\user\orangtask\InterfaceAndException\InterfaceAndException\bin\Debug\InterfaceAndException.exe
+C:\Users\user\orangtask\InterfaceAndException\InterfaceAndException\bin\Debug\InterfaceAndException.pdb
+C:\Users\user\orangtask\InterfaceAndException\InterfaceAndException\obj\Debug\InterfaceAndException.csproj.AssemblyReference.cache
+C:\Users\user\orangtask\InterfaceAndException\InterfaceAndException\obj\Debug\InterfaceAndException.csproj.CoreCompileInputs.cache
+C:\Users\user\orangtask\InterfaceAndException\InterfaceAndException\obj\Debug\InterfaceAndException.exe
+C:\Users\user\orangtask\InterfaceAndException\InterfaceAndException\obj\Debug\InterfaceAndException.pdb
