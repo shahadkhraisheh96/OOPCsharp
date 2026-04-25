@@ -1,0 +1,4 @@
+Name: User
+Specialization: Full-Stack Web Development
+Age: 25
+Description: I specialize in frontend engineering and database management, focusing on responsive layouts.
