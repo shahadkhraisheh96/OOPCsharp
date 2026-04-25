@@ -61,7 +61,7 @@ namespace FileHandling_Library
                     totalWords += words.Length;
                 }
 
-                Console.WriteLine($"Total characters (no spaces): {totalCharactersNoSpaces}");
+                Console.WriteLine($"Total characters {totalCharactersNoSpaces}");
                 Console.WriteLine($"Total words: {totalWords}");
 
             }
